@@ -7,5 +7,5 @@ git commit -m "<message>" // obvious
 git log // get a history of the commits
 git merge // merge changes from one branch to master, or another branch
 
-
+# Another section for the merge branch
 
