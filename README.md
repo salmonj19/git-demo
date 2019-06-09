@@ -7,3 +7,5 @@ git commit -m "<message>" // obvious
 
 git branch // create a branch
 
+git checkout -b new-name // create and switch to a branch
+
