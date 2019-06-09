@@ -9,3 +9,4 @@ git merge // merge changes from one branch to master, or another branch
 
 # Another section for the merge branch
 - A fast-forward commit just points to the latest commit.
+- Automatic merge happens when changes have happened but git can reconcile the changes into a single commit.
