@@ -13,6 +13,9 @@ git log --until "<date>"
 git log --oneline
 git log --oneline --graph --all
 git merge // merge changes from one branch to master, or another branch
+git remote add <remote> <url> // add a new remote at <url>
+git remote -v // list remote repositories
+git push -u <remote> <branch> // push the branch to remote and setup remote as the default upstream for branch
 
 # Another section for the merge branch
 - A fast-forward commit just points to the latest commit.
