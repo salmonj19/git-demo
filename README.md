@@ -12,3 +12,9 @@ git merge // merge changes from one branch to master, or another branch
 - A fast-forward commit just points to the latest commit.
 - Automatic merge happens when changes have happened but git can reconcile the changes into a single commit.
 
+git checkout -b new-name // create and switch to a branch
+
+git stash // save changes to current branch without committing
+git stash list // show saved changes
+git stash pop // bring changes back
+
